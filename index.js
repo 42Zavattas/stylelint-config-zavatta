@@ -46,7 +46,7 @@ module.exports = {
     'declaration-block-single-line-max-declarations': 4,
     'declaration-block-trailing-semicolon': 'always',
     'block-closing-brace-newline-after': 'always',
-    'block-closing-brace-newline-before': 'never-muli-line',
+    'block-closing-brace-newline-before': 'never-multi-line',
     'block-closing-brace-space-before': 'always',
     'block-no-empty': true,
     'block-opening-brace-newline-after': 'never-multi-line',
